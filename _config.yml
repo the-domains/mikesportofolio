@@ -1,0 +1,28 @@
+name: mikesportofolio
+favicon: null
+layout_spectrum: 0.7070870322640985
+typography_spectrum: 0.47097346978262067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.09536457899957895
+  lightness: 0.5015720338560641
+  saturation: 0.24544813204556704
+  rhythmicContrast: 0.0215238353703171
+purpose: []
