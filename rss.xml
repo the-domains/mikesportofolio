@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mikael Lundén | Portofolio | CV]]></title>
         <description><![CDATA[Mikael Lundén | Portofolio | CV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mikesportofolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 19:05:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 20:50:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mikesportofolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mlunden portofolio]]></title>
+            <description><![CDATA[<article><h1>mlunden portofolio</h1><p>mlundenPortofolio</p></article>]]></description>
+            <link>https://thegrid.ai/mikesportofolio/mlunden-portofolio/index.html</link>
+            <guid isPermaLink="false">90dac233-5ec1-44a8-bc55-8c8d3e5b472d</guid>
+            <pubDate>Fri, 18 Dec 2015 20:50:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Mikael Lundén CV/Portofolio</p>]]></description>
-            <link>undefined646548bf-72a0-48ad-9a68-4040ca19e67d/index.html</link>
+            <link>https://thegrid.ai/mikesportofolio/646548bf-72a0-48ad-9a68-4040ca19e67d/index.html</link>
             <guid isPermaLink="false">646548bf-72a0-48ad-9a68-4040ca19e67d</guid>
             <pubDate>Tue, 15 Dec 2015 19:05:50 GMT</pubDate>
         </item>
