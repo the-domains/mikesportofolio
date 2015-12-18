@@ -4,8 +4,15 @@
         <description><![CDATA[Mikael Lundén | Portofolio | CV]]></description>
         <link>https://thegrid.ai/mikesportofolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 20:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 20:50:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mikesportofolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/mikesportofolio/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">5092d1b6-419c-487d-a316-1b15165573e9</guid>
+            <pubDate>Fri, 18 Dec 2015 20:50:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mlunden portofolio]]></title>
             <description><![CDATA[<article><h1>mlunden portofolio</h1><p>mlundenPortofolio</p></article>]]></description>
