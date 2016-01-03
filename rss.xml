@@ -4,7 +4,7 @@
         <description><![CDATA[Mikael Lundén | Portofolio | CV]]></description>
         <link>https://thegrid.ai/mikesportofolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 21:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:54:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mikesportofolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mlunden portofolio]]></title>
@@ -14,7 +14,15 @@
             <pubDate>Fri, 18 Dec 2015 21:02:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mlunden.me webplats]]></title>
+            <description><![CDATA[<article><h1>Mlunden.me webplats</h1><p>graphic designer, designer verksamhetskonsult, grafisk konsult, webdesigner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37421bfa2cec1a513c0d41f8fb1ec9acabce5b09.jpg"></article>]]></description>
+            <link>http://mlunden.me/</link>
+            <guid isPermaLink="false">96b7e687-194f-4957-89e6-f94ff2927ca8</guid>
+            <pubDate>Sun, 03 Jan 2016 10:54:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Länkad text på The Grid.io</p>]]></description>
             <link>https://thegrid.ai/mikesportofolio/e1a7d5a5-6302-4f88-b8a3-e67e948045dd/index.html</link>
             <guid isPermaLink="false">e1a7d5a5-6302-4f88-b8a3-e67e948045dd</guid>
             <pubDate>Fri, 18 Dec 2015 21:20:41 GMT</pubDate>
