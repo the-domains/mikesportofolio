@@ -1,24 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://mlunden.me'
-  name: Mlunden
-  favicon: 'http://mlunden.me/assets/images/logo.png'
-  domain: mlunden.me
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: sv
+starred: false
 keywords: []
 description: 'graphic designer, designer verksamhetskonsult, grafisk konsult, webdesigner'
-inLanguage: sv
+datePublished: '2016-03-06T11:19:53.708Z'
+dateModified: '2016-03-06T10:15:04.156Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://mlunden.me/'
 title: Mlunden.me webplats
-datePublished: '2016-01-03T10:54:02.063Z'
-dateModified: '2015-12-18T20:58:40.532Z'
 sourcePath: _posts/2016-01-03-mlundenme-webplats.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Mlunden
+  domain: mlunden.me
+  url: 'http://mlunden.me'
+  favicon: 'http://mlunden.me/assets/images/logo.png'
+url: mlundenme-webplats/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
